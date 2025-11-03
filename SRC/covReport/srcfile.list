@@ -1,0 +1,17 @@
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_active_agent.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_active_monitor.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_driver.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_environment.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_interface.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_passive_agent.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_passive_monitor.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_pkg.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_scoreboard.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_seq_item.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_sequence.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_sequencer.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_subscriber.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/axi_uart_test.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/design.v
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/top.sv
+/fetools/work_area/frontend/Batch_10/ranjith_6101/project_axis_uart/AXI_Stream_to_UART/SRC/top_axis_uart.sv

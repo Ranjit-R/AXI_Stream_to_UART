@@ -1,0 +1,46 @@
+QuestaSim vlog 10.6c Compiler 2017.07 Jul 25 2017
+Start time: 18:55:34 on Oct 27,2025
+vlog "+define+UVM_NO_DPI" -sv "+acc" -l compile.log top.sv "+incdir+/tools/mentor/questasim_10.6c/questasim/uvm-1.1d/../verilog_src/uvm-1.1d/src" 
+-- Compiling package uvm_pkg (uvm-1.1d Built-in)
+-- Compiling package global_pkg
+-- Compiling package axi_uart_pkg
+-- Importing package global_pkg
+-- Importing package uvm_pkg (uvm-1.1d Built-in)
+-- Compiling interface axi_uart_interface
+-- Compiling module top_axis_uart
+-- Compiling module axis_fifo_uart_tx
+-- Compiling module axis_master_inp
+-- Compiling module tt_um_top_axis_uart
+-- Compiling module sync_fifo
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(123): (vlog-2892) Net type of 'din' must be explicitly declared.
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(121): (vlog-2892) Net type of 'clk' must be explicitly declared.
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(121): (vlog-2892) Net type of 'rst' must be explicitly declared.
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(122): (vlog-2892) Net type of 'wr_en' must be explicitly declared.
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(122): (vlog-2892) Net type of 'din_last' must be explicitly declared.
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(125): (vlog-2892) Net type of 'rd_en' must be explicitly declared.
+-- Compiling module uart_rec
+-- Compiling module uart_tx
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(355): (vlog-2892) Net type of 'tx_data' must be explicitly declared.
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(354): (vlog-2892) Net type of 'clk' must be explicitly declared.
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(354): (vlog-2892) Net type of 'rst' must be explicitly declared.
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(356): (vlog-2892) Net type of 'tx_data_valid' must be explicitly declared.
+** Warning: ** while parsing file included at top.sv(6)
+** at design.sv(356): (vlog-2892) Net type of 'tx_data_last' must be explicitly declared.
+-- Compiling module top
+-- Importing package axi_uart_pkg
+
+Top level modules:
+	tt_um_top_axis_uart
+	top
+End time: 18:55:35 on Oct 27,2025, Elapsed time: 0:00:01
+Errors: 0, Warnings: 11

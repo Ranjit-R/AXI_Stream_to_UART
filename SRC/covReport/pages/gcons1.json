@@ -1,0 +1,7 @@
+var g_db_data = [
+{dummy:0},
+{name:'cg1',f:1,type:6,id:1311,tb:'6',h:'5',m:'1',hp:'83.33%',cov:['83.33%','Y'],g:'100.00%',gp:['83.33%','Y'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/axi_uart_pkg/axi_uart_subscriber',parent:'1306'},
+{name:'cg2',f:1,type:6,id:1315,tb:'8',h:'6',m:'2',hp:'75.00%',cov:['75.00%','Y'],g:'100.00%',gp:['75.00%','Y'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/axi_uart_pkg/axi_uart_subscriber',parent:'1306'},
+{name:'cg1',f:1,type:6,id:1641,tb:'6',h:'5',m:'1',hp:'83.33%',cov:['83.33%','Y'],g:'100.00%',gp:['83.33%','Y'],opts:[[],['merge_instance','true']],hdlPath:'work.axi_uart_pkg::axi_uart_subscriber',parent:'1636'},
+{name:'cg2',f:1,type:6,id:1645,tb:'8',h:'6',m:'2',hp:'75.00%',cov:['75.00%','Y'],g:'100.00%',gp:['75.00%','Y'],opts:[[],['merge_instance','true']],hdlPath:'work.axi_uart_pkg::axi_uart_subscriber',parent:'1636'}];
+processConsCovergroupsData(g_db_data);
