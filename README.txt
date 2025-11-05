@@ -4,9 +4,6 @@ Designer : Shreenidhi K, Punith Roy
 Verification engineers : Vadali kirti Krishna Vamsi, Mutchakala Raja Vardhan, Swathi Rathod, Shama M, Ranjith R
 Specification Provided By: Mirafra Technologies
 Date: 05-11-2025
-Copyright:
-Protected under the Copyright Act 2001.
-All rights reserved by  Mirafra Technologies. Unauthorized reproduction or distribution is prohibited.
 #####################################################################################################################
 
 Overview
